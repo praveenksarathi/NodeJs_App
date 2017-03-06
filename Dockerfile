@@ -1,4 +1,4 @@
-FROM node:boron
+FROM node:4-onbuild
 
 RUN mkdir -p /usr/src/app
 
