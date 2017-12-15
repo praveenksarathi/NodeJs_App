@@ -14,7 +14,5 @@ file:
     filetype: file
     contains: []
 package:
-  nodejs:
+  npm:
     installed: true
-    versions:
-    - 1.11.10-1~jessie
