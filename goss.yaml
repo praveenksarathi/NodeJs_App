@@ -1,12 +1,12 @@
 file:
-  app_delete.py:
+  package.json:
     exists: true
     mode: "0777"
     owner: root
     group: root
     filetype: file
     contains: []
-  praveen.txt:
+  server.js:
     exists: true
     mode: "0777"
     owner: root
@@ -14,7 +14,7 @@ file:
     filetype: file
     contains: []
 package:
-  python:
+  nodejs:
     installed: true
     versions:
     - 1.11.10-1~jessie
